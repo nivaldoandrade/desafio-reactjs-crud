@@ -40,7 +40,7 @@
     <li>Listar os pratos de comida;</li>
     <li>Adicionar novos pratos de comida;</li>
     <li>Remover pratos de comida;</li>
-    <li>Alterar disponibilidade dos pratos de comida ;</li>
+    <li>Alterar disponibilidade dos pratos de comida.</li>
   </ul>
 
   <h1>Layout</h1>
