@@ -9,7 +9,7 @@
     </a>
   </p>
   <p align="center">
-    <img src="" />
+    <img src="https://github.com/nivaldoandrade/go-restaurant-web/blob/master/assetsReadme/Capa.png" />
   </p>
   </header>
 
