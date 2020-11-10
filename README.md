@@ -1,6 +1,6 @@
 <header>
   <h1 align="center">
-    GoFinances Web
+    GoRestaurant Web
   </h1>
   <p align="center">Projeto desenvolvido para uma aplicação de delivery de comida, o GoRestaurant.</p>
   <p align="center">
